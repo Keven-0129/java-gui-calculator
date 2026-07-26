@@ -39,7 +39,8 @@ java Calculator
 
 ## Screenshot
 
-<img width="313" height="255" alt="calculator" src="https://github.com/user-attachments/assets/c90f9f91-e83a-4c33-914f-d9e5dc808cfb" />
+<img width="317" height="252" alt="calculator" src="https://github.com/user-attachments/assets/e06f5b3c-dabb-44eb-87b0-e2617ab2beb4" />
+
 
 
 

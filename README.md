@@ -22,7 +22,7 @@ A simple desktop calculator application developed using Java Swing. It performs 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/keven-0129/java-gui-calculator.git
+git clone https://github.com/Keven-0129/java-gui-calculator.git
 ```
 
 2. Compile the program:
